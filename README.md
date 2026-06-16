@@ -117,37 +117,15 @@ http://127.0.0.1:5000
 
 ## Screenshots
 
-### System Architecture
+![Architecture](screenshots/Architecture.png)
 
-Add:
+![Home Page](screenshots/home_page.png)
 
-```text
-screenshots/architecture.png
-```
+![Upload Page](screenshots/upload_page.png)
 
-### Home Page
+![Cancer Result](screenshots/Cancer_result.png)
 
-Add:
-
-```text
-screenshots/home_page.png
-```
-
-### Upload Page
-
-Add:
-
-```text
-screenshots/upload_page.png
-```
-
-### Prediction Result
-
-Add:
-
-```text
-screenshots/cancer_result.png
-```
+![Non-Cancer Result](screenshots/Non_Cancer_result.png)
 
 ## Future Enhancements
 
